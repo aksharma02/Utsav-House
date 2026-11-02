@@ -19,3 +19,4 @@ Official website for **Utsav House**, premier event planners across Jaipur and R
   - `blog.html` — Event trends & guides
   - `contact.html` — Event booking & inquiry form
   - `assets/` — Stylesheets, scripts, royal logo, and high-resolution event media
+

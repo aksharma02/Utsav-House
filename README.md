@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Utsav House — Luxury Event Planner Website
 
 Official website for **Utsav House**, premier event planners across Jaipur and Rajasthan, crafting stylish celebrations from royal weddings and themed birthdays to high-impact corporate events and catering.
@@ -20,3 +21,6 @@ Official website for **Utsav House**, premier event planners across Jaipur and R
   - `contact.html` — Event booking & inquiry form
   - `assets/` — Stylesheets, scripts, royal logo, and high-resolution event media
 
+=======
+# Utsav-House
+>>>>>>> eec4d5e8cd41d7d2feb6caad0a79a75e365cb05c
